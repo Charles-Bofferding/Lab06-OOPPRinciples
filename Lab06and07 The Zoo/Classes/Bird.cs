@@ -20,8 +20,8 @@ public abstract class Bird : Animal
     public abstract string Flap();
     public virtual string Repeat(string phrase)
     {
-        string output = $"SQUACK, {phrase}, SQUACK";
-        return output;
+        return "The bird stares at you";
+
     }
 
 

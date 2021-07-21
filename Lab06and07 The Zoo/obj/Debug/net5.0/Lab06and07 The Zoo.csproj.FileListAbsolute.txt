@@ -1,0 +1,16 @@
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.csproj.AssemblyReference.cache
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.AssemblyInfoInputs.cache
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.AssemblyInfo.cs
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.csproj.CoreCompileInputs.cache
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\bin\Debug\net5.0\Lab06and07 The Zoo.exe
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\bin\Debug\net5.0\Lab06and07 The Zoo.deps.json
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\bin\Debug\net5.0\Lab06and07 The Zoo.runtimeconfig.json
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\bin\Debug\net5.0\Lab06and07 The Zoo.runtimeconfig.dev.json
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\bin\Debug\net5.0\Lab06and07 The Zoo.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\bin\Debug\net5.0\ref\Lab06and07 The Zoo.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\bin\Debug\net5.0\Lab06and07 The Zoo.pdb
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\ref\Lab06and07 The Zoo.dll
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.pdb
+C:\Users\noctu\source\repos\Charles-Bofferding\Lab06-OOPPRinciples\Lab06and07 The Zoo\obj\Debug\net5.0\Lab06and07 The Zoo.genruntimeconfig.cache

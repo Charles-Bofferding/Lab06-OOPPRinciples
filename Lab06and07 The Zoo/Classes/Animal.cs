@@ -8,9 +8,7 @@ public abstract class Animal
 {
 	public Animal()
 	{
-		//
-		// TODO: Add constructor logic here
-		//
+		Stomach = 0;
 	}
 
 	//Setting up properties for inheritance
@@ -18,10 +16,10 @@ public abstract class Animal
 	public virtual int Legs { get; set; }
 	
 	//Setting up methods for inheritance
-	public abstract void Eat();
-	public virtual void Call()
+	public abstract void Call();
+	public virtual void Eat()
 	{
-		Console.WriteLine("I am a default animal response");
+		Stomach++;
 	}
 
 
