@@ -7,15 +7,8 @@ public abstract class Fish : Animal
 {
 	public Fish()
 	{
-		//
-		// TODO: Add constructor logic here
-		//
+        Legs = 0;
 	}
-
-    //Cleaning up inheritance things
-	public override int Legs { get; set; } = 0;
-
-    public override int Stomach { get; set; } = 0;
 
     //Fish can only make very limited calls
     public override void Call()

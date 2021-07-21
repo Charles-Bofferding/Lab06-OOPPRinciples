@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab06and07 The Zoo/1.0.0": {
+        "runtime": {
+          "Lab06and07 The Zoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab06and07 The Zoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
